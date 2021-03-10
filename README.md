@@ -8,4 +8,4 @@ En este proyecto abordamos diferentes técnicas de IA para la reducción del rui
 - Redes neuronales.
 - Redes neuronales convolucionales.
 
-## Link del video: 
+## Link del video: https://www.youtube.com/watch?v=2D00poyd0ok
